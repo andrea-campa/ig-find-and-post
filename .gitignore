@@ -1,0 +1,9 @@
+chrome-data/
+previous-versions/
+__pycache__/
+confidential.py
+confidential*
+download_log.txt
+example.txt
+out.txt
+chromedriver
