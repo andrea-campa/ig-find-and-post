@@ -1,7 +1,7 @@
 # Instagram Find and Post
 A bot to find the most liked post under a certain hashtag and post it to your profile
 
-# prerequisites:
+# required:
 **instabot**  
 **selenium**  
 **chromedriver**
